@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\bin\Debug\Reading tracker.exe.config
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\bin\Debug\Reading tracker.exe
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\bin\Debug\Reading tracker.pdb
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\obj\Debug\Reading tracker.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\obj\Debug\Reading tracker.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\obj\Debug\Reading tracker.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\obj\Debug\Reading tracker.exe
+E:\#1Programming\2022\patterns\Reading_tracker\Reading tracker\obj\Debug\Reading tracker.pdb
